@@ -1,2 +1,2 @@
-# JHNUITableViewSwipe
+# JHNTableViewSwipe
 UITableView Section Swipe
