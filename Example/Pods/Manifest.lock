@@ -1,0 +1,16 @@
+PODS:
+  - JHNTableViewSwipe (0.1.0)
+
+DEPENDENCIES:
+  - JHNTableViewSwipe (from `../`)
+
+EXTERNAL SOURCES:
+  JHNTableViewSwipe:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JHNTableViewSwipe: ce09d7b28ae2ed605f4675f7a9866fb76bb7e221
+
+PODFILE CHECKSUM: 67975d476e2572486ba28b6c051d267ad7b17015
+
+COCOAPODS: 1.11.3
